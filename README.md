@@ -6,7 +6,7 @@
 
 ສະມາຊິກໃນກຸ່ມ
 - ທ. ແອນດີ້ ສຸວວັນນະສິງ
-- ທ. 
+- ທ. ສຸດວິໄສ ໄສຍະສິດ
 
 link website
 
@@ -14,4 +14,3 @@ https://finer-map.000webhostapp.com/
 
 username: admin002
 password: admin002
-
